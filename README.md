@@ -5,11 +5,8 @@ A modern, responsive, beautifully animated Next.js + TypeScript + TailwindCSS Cr
 ## 📸 Screenshots 
 
 <img src="https://github.com/greatasmi/crypto-nextjs16-app/blob/master/unnamed%20(2).jpg" alt="App Screenshot" />
-
 <img src="https://github.com/greatasmi/crypto-nextjs16-app/blob/master/unnamed%20(3).jpg" alt="App Screenshot" />
-
 <img src="https://github.com/greatasmi/crypto-nextjs16-app/blob/master/unnamed%20(4).jpg" alt="App Screenshot" />
-
 <img src="https://github.com/greatasmi/crypto-nextjs16-app/blob/master/unnamed%20(5).jpg" alt="App Screenshot" />
 
 <img src="https://github.com/greatasmi/crypto-nextjs16-app/blob/master/d1a1d1aa-1e8d-4c1e-b10e-c0201df585f6.png" alt="App Screenshot" />
