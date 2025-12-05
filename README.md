@@ -4,6 +4,9 @@ A modern, responsive, beautifully animated Next.js + TypeScript + TailwindCSS Cr
 
 ## 📸 Screenshots 
 
+<img src="https://github.com/greatasmi/crypto-nextjs16-app/blob/master/unnamed%20(2).jpg" alt="App Screenshot" width="1024" height="450" />
+
+
 ### ✨ Features at a Glance
 Feature	Description
 -  🔍 Live Search	Search by coin name or symbol instantly.
