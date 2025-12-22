@@ -1,0 +1,12 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.bulb{ 
+  background: #f3eb12;
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+  margin-top: 50px;
+}
